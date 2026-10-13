@@ -1,0 +1,30 @@
+Mechanical Turk workshop HTML framework spikes
+Retrieved and pinned 2026-10-13. No CDN or build step required.
+
+reveal.js 6.0.2 — MIT
+Official project: https://github.com/hakimel/reveal.js
+Distribution: https://registry.npmjs.org/reveal.js/-/reveal.js-6.0.2.tgz
+Included unmodified runtime files: dist/reveal.js, dist/reveal.css, dist/reset.css
+License: vendor/reveal/LICENSE
+
+Shower core 3.6.0 — MIT
+Official project: https://github.com/shower/shower/tree/main/packages/core
+Distribution: https://registry.npmjs.org/@shower/core/-/core-3.6.0.tgz
+Included unmodified dist/index.js as vendor/shower/shower.js
+License: vendor/shower/LICENSE.md
+
+Shower Ribbon 4.2.0 — MIT
+Official project: https://github.com/shower/shower/tree/main/packages/ribbon
+Distribution: https://registry.npmjs.org/@shower/ribbon/-/ribbon-4.2.0.tgz
+Included unmodified styles and fonts directories.
+Theme license: vendor/ribbon/LICENSE.md
+PT fonts license: vendor/ribbon/fonts/LICENSE.txt (SIL Open Font License 1.1)
+
+Workshop artwork
+Source: https://ollama.openbeagle.org/mechanical-turk/uv/assets/mech-turk-pencil.png
+Supplied for this workshop trial. Offline copy included for review.
+Artist credit and general redistribution license have not been established.
+Illustrative artwork, not documentary historical evidence.
+
+Workshop HTML, CSS and small adapters are editable source files.
+No third-party tracking, telemetry, remote fonts, or remote playback assets.
